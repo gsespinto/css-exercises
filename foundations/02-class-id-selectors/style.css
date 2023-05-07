@@ -1,0 +1,19 @@
+.odd-num-el{
+    background-color: rgb(215, 52, 104);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#num-2{
+    color: rgb(75, 75, 182);
+    font-size: 36px;
+}
+
+.bigger-font{
+    font-size: 24px;
+}
+
+#num-4{
+    background-color: rgb(55, 97, 55);
+    font-size: 24px;
+    font-weight: bold;
+}
